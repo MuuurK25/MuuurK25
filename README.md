@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @MuuurK25
 - 👀 I’m interested in it technology and boxing
 - 🌱 I’m currently learning in GeekBrains
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me https://vk.com/m_u_r_k25 and inst: m_u_r_k25
 
 <!---
