@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MuuurK25
+- 👋 Hi, I’m Mark Derkachev
 - 👀 I’m interested in it technology and boxing
 - 🌱 I’m currently learning in GeekBrains
 - 📫 How to reach me https://vk.com/m_u_r_k25 and inst: m_u_r_k25
