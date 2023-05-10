@@ -1,7 +1,7 @@
 [![Header](https://github.com/MuuurK25/MuuurK25/blob/main/Img/quote-2023-05-10-2ad36aa5dfc461051e259f67837ac73c.jpg)](https://vk.com/muuurk25)
 
 - 👋 Hi, I’m Mark Derkachev
-- 👀 I’m interested in it technology and boxing ang PC games
+- 👀 I’m interested in IT technology and boxing ang PC games
 ### Skills and tools
 ![manualtesting](https://img.shields.io/badge/-manual_testing-000000?style=for-the-badge&logo=)
 ![Jira](https://img.shields.io/badge/-Jira-000000?style=for-the-badge&logo=Jira)
