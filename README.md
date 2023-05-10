@@ -2,7 +2,6 @@
 
 - 👋 Hi, I’m Mark Derkachev
 - 👀 I’m interested in it technology and boxing
-- 🌱 I’m currently learning in GeekBrains
 ### Skills and tools
 ![manualtesting](https://img.shields.io/badge/-manual_testing-000000?style=for-the-badge&logo=)
 ![Jira](https://img.shields.io/badge/-Jira-000000?style=for-the-badge&logo=Jira)
